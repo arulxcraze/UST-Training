@@ -1,3 +1,4 @@
+package Inheritence;
 import java.io.*;
 
 class Numbers {

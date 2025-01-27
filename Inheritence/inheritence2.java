@@ -1,3 +1,4 @@
+package Inheritence;
 class Employee {
     private int salary;
 
